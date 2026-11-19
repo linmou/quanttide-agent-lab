@@ -1,0 +1,1 @@
+{"format_version": 2, "session_count": 20, "agents": {"pi": 20}, "ux_language": "zh", "cleaning": "capsule-select-all", "capsule_version": "1.0.0", "redactions": {"secrets": 0, "emails": 159, "names": 153, "hosts": 701, "paths": 1}}

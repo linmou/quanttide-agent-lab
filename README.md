@@ -7,6 +7,7 @@ QuantTide Laboratory of Agent Engineering
 | 实验 | 说明 | 数据 |
 |------|------|------|
 | [experiments/session-scrub](experiments/session-scrub/README.md) | 会话脱敏导出：clean-session-curate 全流程实测、七项匿名化效果、密钥漏网与二次自查 | `data/session-scrub/` |
+| [experiments/pi-session-scrub](experiments/pi-session-scrub/README.md) | pi 会话接入同一流水线：发现 250 条、转换、Capsule 盲区（数组内路径）、第二道清扫拦下 1014 处身份与部署信息 | `data/pi-session-scrub/` |
 
 ## 目录
 
